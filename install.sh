@@ -109,7 +109,7 @@ echo -e "\033[36m当前 TCP 拥塞控制算法：\033[0m\033[1;32m$CURRENT_ALGO\
 echo -e "\033[36m当前队列管理算法：\033[0m\033[1;32m$CURRENT_QDISC\033[0m"
 print_separator
 # 显示作者信息及实际地址
-echo -e "\033[1;33m作者：LuckyStarsir  |  博客：LuckyStarsir  |  反馈群组：LuckyStarsir[0m"
+echo -e "\033[1;33m作者：Joey  |  博客：https://joeyblog.net  |  反馈群组：https://t.me/+ft-zI76oovgwNmRh\033[0m"
 print_separator
 
 # 提示用户选择操作
